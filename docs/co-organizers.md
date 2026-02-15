@@ -12,6 +12,6 @@ Organizer information for ICBO 2026 will be posted here soon.
 
 ### Contact Information
 
-Please direct all further questions to Asiyah Yu Lin (ontology.world@gmail.com)
+Please direct all further questions to Asiyah Yu Lin (<a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a>)
 
 </div>
