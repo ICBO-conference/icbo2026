@@ -1,7 +1,7 @@
-site_name: ICBO
-site_url: https://github.com/ICBO-conference/icbo2026
+site_name: ICBO 2026
+site_url: https://icbo-conference.github.io/icbo2026/
 site_author: International Conference on Biomedical Ontology
-site_description: "International Conference on Biomedical Ontology ICBO"
+site_description: "17th International Conference on Biological and Biomedical Ontology (ICBO 2026)"
 copyright: "ICBO 2026 - International Conference on Biological and Biomedical Ontology"
 
 theme:
@@ -13,11 +13,16 @@ theme:
 
 nav:
   - Home: index.md
+  - Call for Submissions: call-for-submissions.md
   - Registration: registration.md
   - Organizers: co-organizers.md
+
+extra_css:
+  - css/custom.css
 
 markdown_extensions:
   - admonition
   - md_in_html
+  - attr_list
   - toc:
       permalink: true

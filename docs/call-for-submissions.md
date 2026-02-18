@@ -1,0 +1,145 @@
+---
+disable_toc: false
+---
+
+<div style="max-width: 1000px; margin: 0 auto;" markdown>
+
+# Call for Submissions
+
+ICBO 2026 invites contributions exploring the critical role of ontologies and semantic technologies in developing trustworthy, interpretable, and AI-ready ecosystems. Original research, system descriptions, and position papers are invited addressing the following challenges.
+
+---
+
+## Topics of Interest
+
+<div class="topic-card" markdown>
+
+### 1. Ontological Foundations for Trustworthy AI
+
+- Methods for grounding Large Language Models (LLMs) in formal ontologies
+- Advancements in neuro-symbolic AI and explainable AI (XAI)
+- Ensuring logical consistency in AI-mediated knowledge discovery
+
+</div>
+
+<div class="topic-card" markdown>
+
+### 2. Semantic Modeling and Bounding of GenAI
+
+- Ontology-driven validation of generative outputs
+- Semantic approaches to hallucination detection and mitigation
+- Integration of Knowledge Graphs (KGs) with generative workflows
+
+</div>
+
+<div class="topic-card" markdown>
+
+### 3. Domain-Specific Applications in Biomedical Research
+
+Practical implementations across core domains:
+
+- **Life Sciences:** Molecular biology, genomics, and proteomics discovery
+- **Clinical & Public Health:** Heterogeneous data integration for epidemiology and health informatics
+- **Wellness & Behavior:** Frameworks for mental health, physical wellness, environmental health, and behavioral science
+- **Global Systems:** Food safety, agricultural systems, and environmental sustainability
+
+</div>
+
+<div class="topic-card" markdown>
+
+### 4. AI-Readiness and Semantic Infrastructure
+
+- Defining and benchmarking "AI-readiness" for datasets and ontologies
+- Governance, sustainability, and community standards evolution
+- Semantic metadata's role in model training and fine-tuning
+
+</div>
+
+<div class="topic-card" markdown>
+
+### 5. FAIR Principles in the Era of GenAI
+
+- Evaluating FAIR principles sufficiency for machine-actionable data
+- Provenance, traceability, and reproducibility in AI-integrated pipelines
+
+</div>
+
+<div class="topic-card" markdown>
+
+### 6. Practical and Theoretical Perspectives
+
+- Distinctions between Semantics and Ontology in GenAI contexts
+- The future of biocuration and manual knowledge engineering
+
+</div>
+
+---
+
+## Submission Categories
+
+<div class="row">
+<div class="col-md-4" markdown>
+
+### <i class="fa fa-file-text"></i> Full Research Papers
+
+Detailed reports on original, mature research contributions. Full papers should present significant results and be thoroughly evaluated.
+
+</div>
+<div class="col-md-4" markdown>
+
+### <i class="fa fa-file-text-o"></i> Short Papers
+
+Updates on ongoing work or focused technical contributions. Short papers provide an opportunity to present preliminary results or novel ideas.
+
+</div>
+<div class="col-md-4" markdown>
+
+### <i class="fa fa-desktop"></i> Posters & Software Demos
+
+Presentations of emerging tools, software systems, and early-stage concepts. Ideal for showcasing practical implementations and prototypes.
+
+</div>
+</div>
+
+---
+
+## <i class="fa fa-calendar"></i> Important Dates
+
+!!! warning "Mark Your Calendar"
+    The main conference takes place **July 15–17, 2026**. Please note the submission deadlines below.
+
+### Workshop & Tutorial Proposals
+
+| | Date |
+|---|---|
+| **Submission Deadline** | March 1, 2026 |
+| **Acceptance Notification** | March 15, 2026 |
+
+### Direct-to-Journal Track
+
+| | Date |
+|---|---|
+| **Submission Deadline** | April 15, 2026 |
+| **Acceptance Notification** | June 1, 2026 |
+
+### Main Conference Papers
+
+| | Date |
+|---|---|
+| **Submission Deadline** | May 1, 2026 |
+| **Acceptance Notification** | June 1, 2026 |
+
+### Posters & Software Demos
+
+| | Date |
+|---|---|
+| **Submission Deadline** | June 1, 2026 |
+| **Acceptance Notification** | June 15, 2026 |
+
+---
+
+## <i class="fa fa-envelope"></i> Contact Information
+
+Please direct all questions to Asiyah Yu Lin — <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a>
+
+</div>
