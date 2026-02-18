@@ -155,15 +155,35 @@ table td, table th {
   background-color: #fdf2e9;
 }
 
-/* --- Submission Category Cards (Bootstrap row) --- */
-.col-md-4 h3 {
-  font-size: 1.1em;
-  color: #2c3e50;
+/* --- Submission Category Cards --- */
+.submission-card {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-top: 3px solid #3498db;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+  min-height: 200px;
 }
 
-.col-md-4 h3 .fa {
+.submission-card h3 {
+  font-size: 1.1em;
+  color: #2c3e50;
+  margin-top: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 12px;
+}
+
+.submission-card h3 .fa {
   color: #3498db;
   margin-right: 5px;
+}
+
+.submission-card p {
+  color: #555;
+  font-size: 0.95em;
+  margin-bottom: 0;
 }
 
 /* --- Section headings with icons --- */

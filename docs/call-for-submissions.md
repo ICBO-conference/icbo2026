@@ -78,26 +78,23 @@ Practical implementations across core domains:
 ## Submission Categories
 
 <div class="row">
-<div class="col-md-4" markdown>
-
-### <i class="fa fa-file-text"></i> Full Research Papers
-
-Detailed reports on original, mature research contributions. Full papers should present significant results and be thoroughly evaluated.
-
+<div class="col-md-4">
+<div class="submission-card">
+<h3><i class="fa fa-file-text"></i> Full Research Papers</h3>
+<p>Detailed reports on original, mature research contributions. Full papers should present significant results and be thoroughly evaluated.</p>
 </div>
-<div class="col-md-4" markdown>
-
-### <i class="fa fa-file-text-o"></i> Short Papers
-
-Updates on ongoing work or focused technical contributions. Short papers provide an opportunity to present preliminary results or novel ideas.
-
 </div>
-<div class="col-md-4" markdown>
-
-### <i class="fa fa-desktop"></i> Posters & Software Demos
-
-Presentations of emerging tools, software systems, and early-stage concepts. Ideal for showcasing practical implementations and prototypes.
-
+<div class="col-md-4">
+<div class="submission-card">
+<h3><i class="fa fa-file-text-o"></i> Short Papers</h3>
+<p>Updates on ongoing work or focused technical contributions. Short papers provide an opportunity to present preliminary results or novel ideas.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="submission-card">
+<h3><i class="fa fa-desktop"></i> Posters & Software Demos</h3>
+<p>Presentations of emerging tools, software systems, and early-stage concepts. Ideal for showcasing practical implementations and prototypes.</p>
+</div>
 </div>
 </div>
 
@@ -108,33 +105,12 @@ Presentations of emerging tools, software systems, and early-stage concepts. Ide
 !!! warning "Mark Your Calendar"
     The main conference takes place **July 15–17, 2026**. Please note the submission deadlines below.
 
-### Workshop & Tutorial Proposals
-
-| | Date |
-|---|---|
-| **Submission Deadline** | March 1, 2026 |
-| **Acceptance Notification** | March 15, 2026 |
-
-### Direct-to-Journal Track
-
-| | Date |
-|---|---|
-| **Submission Deadline** | April 15, 2026 |
-| **Acceptance Notification** | June 1, 2026 |
-
-### Main Conference Papers
-
-| | Date |
-|---|---|
-| **Submission Deadline** | May 1, 2026 |
-| **Acceptance Notification** | June 1, 2026 |
-
-### Posters & Software Demos
-
-| | Date |
-|---|---|
-| **Submission Deadline** | June 1, 2026 |
-| **Acceptance Notification** | June 15, 2026 |
+| Track | Submission Deadline | Acceptance Notification |
+|---|---|---|
+| **Workshop & Tutorial Proposals** | March 1, 2026 | March 15, 2026 |
+| **Direct-to-Journal Track** | April 15, 2026 | June 1, 2026 |
+| **Main Conference Papers** | May 1, 2026 | June 1, 2026 |
+| **Posters & Software Demos** | June 1, 2026 | June 15, 2026 |
 
 ---
 
