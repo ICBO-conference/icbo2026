@@ -12,7 +12,7 @@ ICBO 2026 invites contributions exploring the critical role of ontologies and se
 
 ## Topics of Interest
 
-<div class="topic-card" markdown>
+<div class="topic-card-full" markdown>
 
 ### 1. Ontological Foundations for Trustworthy AI
 
@@ -22,7 +22,7 @@ ICBO 2026 invites contributions exploring the critical role of ontologies and se
 
 </div>
 
-<div class="topic-card" markdown>
+<div class="topic-card-full" markdown>
 
 ### 2. Semantic Modeling and Bounding of GenAI
 
@@ -32,7 +32,7 @@ ICBO 2026 invites contributions exploring the critical role of ontologies and se
 
 </div>
 
-<div class="topic-card" markdown>
+<div class="topic-card-full" markdown>
 
 ### 3. Domain-Specific Applications in Biomedical Research
 
@@ -45,7 +45,7 @@ Practical implementations across core domains:
 
 </div>
 
-<div class="topic-card" markdown>
+<div class="topic-card-full" markdown>
 
 ### 4. AI-Readiness and Semantic Infrastructure
 
@@ -55,7 +55,7 @@ Practical implementations across core domains:
 
 </div>
 
-<div class="topic-card" markdown>
+<div class="topic-card-full" markdown>
 
 ### 5. FAIR Principles in the Era of GenAI
 
@@ -64,7 +64,7 @@ Practical implementations across core domains:
 
 </div>
 
-<div class="topic-card" markdown>
+<div class="topic-card-full" markdown>
 
 ### 6. Practical and Theoretical Perspectives
 

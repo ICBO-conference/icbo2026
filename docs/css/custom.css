@@ -51,6 +51,10 @@
   color: #ffffff;
 }
 
+.hero-banner .headerlink {
+  display: none;
+}
+
 /* --- Tables --- */
 table {
   width: 100%;
@@ -79,8 +83,49 @@ table td, table th {
   border: 1px solid #dee2e6;
 }
 
-/* --- Topic Cards --- */
+/* --- Perspective Quote --- */
+.perspective-quote {
+  border-left: 4px solid #f1c40f;
+  background-color: #fefdf3;
+  padding: 14px 20px;
+  margin: 20px 0;
+  font-style: italic;
+  color: #555;
+  border-radius: 0 4px 4px 0;
+}
+
+.perspective-quote .fa {
+  color: #f1c40f;
+  margin-right: 6px;
+}
+
+/* --- Topic Cards (homepage compact tiles) --- */
 .topic-card {
+  display: block;
+  background-color: #f0f5fb;
+  border-left: 4px solid #3498db;
+  border-radius: 4px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+  font-size: 0.95em;
+  color: #2c3e50 !important;
+  text-decoration: none !important;
+  transition: background-color 0.15s ease, border-left-color 0.15s ease;
+}
+
+.topic-card:hover {
+  background-color: #ddeaf7;
+  border-left-color: #2980b9;
+  text-decoration: none !important;
+}
+
+.topic-card strong {
+  color: #3498db;
+  margin-right: 4px;
+}
+
+/* --- Topic Cards (call for submissions expanded) --- */
+.topic-card-full {
   background-color: #f8f9fa;
   border-left: 4px solid #3498db;
   border-radius: 4px;
@@ -88,17 +133,17 @@ table td, table th {
   margin-bottom: 20px;
 }
 
-.topic-card h3 {
+.topic-card-full h3 {
   color: #2c3e50;
   margin-top: 0;
   font-size: 1.2em;
 }
 
-.topic-card ul {
+.topic-card-full ul {
   margin-bottom: 0;
 }
 
-.topic-card li {
+.topic-card-full li {
   margin-bottom: 4px;
 }
 

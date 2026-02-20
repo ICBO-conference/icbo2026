@@ -16,16 +16,18 @@ disable_toc: true
 
 <div style="max-width: 1000px; margin: 0 auto;" markdown>
 
-## About ICBO 2026
+## Theme of ICBO 2026
 
 The International Conference on Biological and Biomedical Ontology (ICBO) is a premier annual conference series covering the development and application of ontologies for biological and medical domains.
 
 The emergence of Generative AI (GenAI) is fundamentally altering the landscape of biomedical research, knowledge integration, and scientific communication. However, the rapid acceleration of data generation does not inherently lead to improved scientific understanding. As AI systems increasingly mediate the synthesis of knowledge, the requirements for semantic rigor, ontological grounding, and data trustworthiness become more paramount.
 
-ICBO 2026 invites contributions exploring the critical role of ontologies and semantic technologies (including formal semantics based Knowledge Graphs) in developing trustworthy, interpretable, and AI-ready ecosystems. Research is welcomed across biology, medicine, health, behavioral science, environmental health, and food systems.
+ICBO 2026 invites contributions exploring the critical role of ontologies and semantic technologies (including formal semantics based Knowledge Graph) in developing trustworthy, interpretable, and AI-ready ecosystems. We welcome research across the domains of biology, medicine, health, behavioral science, environmental health, and food systems.
 
-!!! note "Perspective"
-    GenAI offers powerful capabilities for data processing and synthesis — serving as a complement to, not replacement for, formal semantics, logical consistency, and community-curated knowledge structures.
+<blockquote class="perspective-quote">
+<i class="fa fa-quote-left"></i>
+While GenAI offers powerful capabilities for data processing and synthesis, it serves as a complement to, not a replacement for, formal semantics, logical consistency, and community-curated knowledge structures.
+</blockquote>
 
 ---
 
@@ -42,6 +44,23 @@ ICBO 2026 invites contributions exploring the critical role of ontologies and se
 <p style="text-align: center;">
 <a href="call-for-submissions/" class="btn btn-primary"><i class="fa fa-file-text-o"></i> Call for Submissions & All Deadlines</a>
 </p>
+
+---
+
+## <i class="fa fa-list"></i> Topics of Interest
+
+<div class="row">
+<div class="col-md-6">
+<a href="call-for-submissions/#1-ontological-foundations-for-trustworthy-ai" class="topic-card"><strong>1.</strong> Ontological Foundations for Trustworthy AI</a>
+<a href="call-for-submissions/#2-semantic-modeling-and-bounding-of-genai" class="topic-card"><strong>2.</strong> Semantic Modeling and Bounding of GenAI</a>
+<a href="call-for-submissions/#3-domain-specific-applications-in-biomedical-research" class="topic-card"><strong>3.</strong> Domain-Specific Applications in Biomedical Research</a>
+</div>
+<div class="col-md-6">
+<a href="call-for-submissions/#4-ai-readiness-and-semantic-infrastructure" class="topic-card"><strong>4.</strong> AI-Readiness and Semantic Infrastructure</a>
+<a href="call-for-submissions/#5-fair-principles-in-the-era-of-genai" class="topic-card"><strong>5.</strong> FAIR Principles in the Era of GenAI</a>
+<a href="call-for-submissions/#6-practical-and-theoretical-perspectives" class="topic-card"><strong>6.</strong> Practical and Theoretical Perspectives</a>
+</div>
+</div>
 
 ---
 
