@@ -49,17 +49,13 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ## <i class="fa fa-list"></i> Topics of Interest
 
-<div class="row">
-<div class="col-md-6">
+<div class="topic-grid">
 <a href="call-for-submissions/#1-ontological-foundations-for-trustworthy-ai" class="topic-card"><strong>1.</strong> Ontological Foundations for Trustworthy AI</a>
 <a href="call-for-submissions/#2-semantic-modeling-and-bounding-of-genai" class="topic-card"><strong>2.</strong> Semantic Modeling and Bounding of GenAI</a>
 <a href="call-for-submissions/#3-domain-specific-applications-in-biomedical-research" class="topic-card"><strong>3.</strong> Domain-Specific Applications in Biomedical Research</a>
-</div>
-<div class="col-md-6">
 <a href="call-for-submissions/#4-ai-readiness-and-semantic-infrastructure" class="topic-card"><strong>4.</strong> AI-Readiness and Semantic Infrastructure</a>
 <a href="call-for-submissions/#5-fair-principles-in-the-era-of-genai" class="topic-card"><strong>5.</strong> FAIR Principles in the Era of GenAI</a>
 <a href="call-for-submissions/#6-practical-and-theoretical-perspectives" class="topic-card"><strong>6.</strong> Practical and Theoretical Perspectives</a>
-</div>
 </div>
 
 ---
