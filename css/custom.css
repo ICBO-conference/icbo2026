@@ -1,0 +1,316 @@
+/* ========================================
+   ICBO 2026 Custom Styles
+   ======================================== */
+
+/* --- Hero Banner --- */
+.hero-banner {
+  background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+  color: #ffffff;
+  text-align: center;
+  padding: 50px 30px 40px;
+  margin: -20px -15px 30px -15px;
+  border-radius: 0 0 6px 6px;
+}
+
+.hero-banner h1 {
+  font-size: 3em;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+
+.hero-banner h2 {
+  font-size: 1.3em;
+  font-weight: 400;
+  margin-bottom: 15px;
+  color: #ecf0f1;
+  border-bottom: none;
+}
+
+.hero-banner h3 {
+  font-size: 1.5em;
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 20px;
+  color: #f1c40f;
+  border-bottom: none;
+}
+
+.hero-banner h3 .fa {
+  font-size: 0.8em;
+  margin-right: 5px;
+}
+
+.hero-banner p {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.hero-banner strong {
+  color: #ffffff;
+}
+
+.hero-banner .headerlink {
+  display: none;
+}
+
+/* --- Tables --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table thead th {
+  background-color: #2c3e50;
+  color: #ffffff;
+  padding: 10px 15px;
+  text-align: left;
+  font-weight: 600;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f7f9fb;
+}
+
+table tbody tr:hover {
+  background-color: #eaf2f8;
+}
+
+table td, table th {
+  padding: 10px 15px;
+  border: 1px solid #dee2e6;
+}
+
+/* --- Perspective Quote --- */
+.perspective-quote {
+  border-left: 4px solid #f1c40f;
+  background-color: #fefdf3;
+  padding: 14px 20px;
+  margin: 20px 0;
+  font-style: italic;
+  color: #555;
+  border-radius: 0 4px 4px 0;
+}
+
+.perspective-quote .fa {
+  color: #f1c40f;
+  margin-right: 6px;
+}
+
+/* --- Topic Grid (homepage) --- */
+.topic-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.topic-grid .topic-card {
+  flex: 1 1 calc(50% - 10px);
+  min-width: 240px;
+  margin-bottom: 0;
+}
+
+/* --- Topic Cards (homepage compact tiles) --- */
+.topic-card {
+  display: block;
+  background-color: #f0f5fb;
+  border-left: 4px solid #3498db;
+  border-radius: 4px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+  font-size: 0.95em;
+  color: #2c3e50 !important;
+  text-decoration: none !important;
+  transition: background-color 0.15s ease, border-left-color 0.15s ease;
+}
+
+.topic-card:hover {
+  background-color: #ddeaf7;
+  border-left-color: #2980b9;
+  text-decoration: none !important;
+}
+
+.topic-card strong {
+  color: #3498db;
+  margin-right: 4px;
+}
+
+/* --- Topic Cards (call for submissions expanded) --- */
+.topic-card-full {
+  background-color: #f8f9fa;
+  border-left: 4px solid #3498db;
+  border-radius: 4px;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+}
+
+.topic-card-full h3 {
+  color: #2c3e50;
+  margin-top: 0;
+  font-size: 1.2em;
+}
+
+.topic-card-full ul {
+  margin-bottom: 0;
+}
+
+.topic-card-full li {
+  margin-bottom: 4px;
+}
+
+/* --- Organizer Cards --- */
+.organizer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.organizer-card {
+  flex: 1 1 calc(50% - 16px);
+  min-width: 260px;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-top: 3px solid #3498db;
+  border-radius: 4px;
+  padding: 16px 20px;
+}
+
+.organizer-name {
+  font-size: 1.05em;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 6px;
+}
+
+.organizer-affil {
+  font-size: 0.88em;
+  color: #666;
+  line-height: 1.5;
+}
+
+/* --- Buttons --- */
+.btn {
+  display: inline-block;
+  padding: 10px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 5px;
+  transition: background-color 0.2s ease;
+}
+
+.btn-primary {
+  background-color: #3498db;
+  color: #ffffff !important;
+  border: 1px solid #2980b9;
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+  text-decoration: none;
+  color: #ffffff !important;
+}
+
+.btn-default {
+  background-color: #ffffff;
+  color: #2c3e50 !important;
+  border: 1px solid #bdc3c7;
+}
+
+.btn-default:hover {
+  background-color: #ecf0f1;
+  text-decoration: none;
+  color: #2c3e50 !important;
+}
+
+/* --- Admonition Overrides --- */
+.admonition.note {
+  border-left-color: #3498db;
+}
+
+.admonition.warning {
+  border-left-color: #e67e22;
+}
+
+.admonition.note .admonition-title {
+  background-color: #eaf2f8;
+}
+
+.admonition.warning .admonition-title {
+  background-color: #fdf2e9;
+}
+
+/* --- Submission Category Cards --- */
+.submission-card {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-top: 3px solid #3498db;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+  min-height: 200px;
+}
+
+.submission-card h3 {
+  font-size: 1.1em;
+  color: #2c3e50;
+  margin-top: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 12px;
+}
+
+.submission-card h3 .fa {
+  color: #3498db;
+  margin-right: 5px;
+}
+
+.submission-card p {
+  color: #555;
+  font-size: 0.95em;
+  margin-bottom: 0;
+}
+
+/* --- Section headings with icons --- */
+h2 .fa {
+  color: #3498db;
+  margin-right: 8px;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .hero-banner {
+    padding: 30px 15px 25px;
+  }
+
+  .hero-banner h1 {
+    font-size: 2em;
+  }
+
+  .hero-banner h2 {
+    font-size: 1.1em;
+  }
+
+  .hero-banner h3 {
+    font-size: 1.2em;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+
+  table td, table th {
+    padding: 8px 10px;
+  }
+
+  .btn {
+    display: block;
+    margin: 8px auto;
+    text-align: center;
+  }
+}
