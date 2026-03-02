@@ -51,6 +51,18 @@
   color: #ffffff;
 }
 
+.hero-location {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.95em;
+  color: #d6eaf8;
+  letter-spacing: 0.3px;
+}
+
+.hero-location .fa {
+  margin-right: 4px;
+}
+
 .hero-banner .headerlink {
   display: none;
 }

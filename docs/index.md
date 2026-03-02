@@ -12,6 +12,8 @@ disable_toc: true
 
 **<i class="fa fa-calendar"></i> July 15–17, 2026**
 
+<span class="hero-location"><i class="fa fa-map-marker"></i> Washington Hilton, Washington D.C. (Co-located with ISMB 2026) &nbsp;|&nbsp; <i class="fa fa-laptop"></i> Online Participation Available</span>
+
 </div>
 
 <div style="max-width: 1000px; margin: 0 auto;" markdown>
