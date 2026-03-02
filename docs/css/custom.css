@@ -63,6 +63,15 @@
   margin-right: 4px;
 }
 
+.hero-link {
+  color: #f1c40f !important;
+  text-decoration: underline;
+}
+
+.hero-link:hover {
+  color: #ffffff !important;
+}
+
 .hero-banner .headerlink {
   display: none;
 }
