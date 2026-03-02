@@ -48,6 +48,16 @@ disable_toc: true
 <div class="organizer-affil">National Institutes of Health<br>Maryland, USA</div>
 </div>
 
+<div class="organizer-card">
+<div class="organizer-name">Anupama Gururaj</div>
+<div class="organizer-affil">National Institute of Allergy and Infectious Diseases, National Institutes of Health<br>Maryland, USA</div>
+</div>
+
+<div class="organizer-card">
+<div class="organizer-name">Andrey Ibrahim Seleznev</div>
+<div class="organizer-affil">Pittsburg University<br>Pittsburg, USA</div>
+</div>
+
 </div>
 
 ---
