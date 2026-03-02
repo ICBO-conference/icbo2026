@@ -8,7 +8,7 @@ disable_toc: true
 
 ## 17th International Conference on Biological and Biomedical Ontology
 
-### <i class="fa fa-quote-left"></i> Semantic Awareness in the Age of Generative AI
+### "Semantic Awareness in the Age of Generative AI"
 
 **<i class="fa fa-calendar"></i> July 15–17, 2026**
 
