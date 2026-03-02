@@ -74,6 +74,18 @@ Submissions are encouraged within, but not limited to:
 
 ---
 
+## <i class="fa fa-comments"></i> Community
+
+<div class="slack-banner">
+<div class="slack-text">
+<strong><i class="fa fa-slack"></i> Join the ICBO Community on Slack</strong><br>
+<span>Connect with researchers, ask questions, and stay up to date with announcements.</span>
+</div>
+<a href="https://join.slack.com/t/obo-communitygroup/shared_invite/zt-3rgodll9u-b79_qUwtc_LqO9RTeq2zRA" class="btn btn-slack" target="_blank">Join Now</a>
+</div>
+
+---
+
 ## <i class="fa fa-envelope"></i> Contact Information
 
 Please direct all questions to Asiyah Yu Lin — <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a>
