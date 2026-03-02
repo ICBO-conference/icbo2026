@@ -55,7 +55,7 @@ disable_toc: true
 
 <div class="organizer-card">
 <div class="organizer-name">Andrey Ibrahim Seleznev</div>
-<div class="organizer-affil">Pittsburg University<br>Pittsburg, USA</div>
+<div class="organizer-affil">University of Pittsburgh<br>Pennsylvania, USA</div>
 </div>
 
 </div>

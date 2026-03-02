@@ -107,7 +107,7 @@ Practical implementations across core domains:
 
 | Track | Submission Deadline | Acceptance Notification |
 |---|---|---|
-| **Workshop & Tutorial Proposals** | March 1, 2026 | March 15, 2026 |
+| **Workshop & Tutorial Proposals** | March 15, 2026 | March 22, 2026 |
 | **Direct-to-Journal Track** | April 15, 2026 | June 1, 2026 |
 | **Main Conference Papers** | May 1, 2026 | June 1, 2026 |
 | **Posters & Software Demos** | June 1, 2026 | June 15, 2026 |
