@@ -320,6 +320,20 @@ table td, table th {
   background-color: #fdf2e9;
 }
 
+/* --- Submission Grid --- */
+.submission-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.submission-grid .submission-card {
+  flex: 1 1 calc(33% - 16px);
+  min-width: 220px;
+  min-height: auto;
+}
+
 /* --- Submission Category Cards --- */
 .submission-card {
   background-color: #f8f9fa;
