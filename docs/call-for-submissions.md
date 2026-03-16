@@ -82,7 +82,7 @@ All conference submissions accepted will be published in the [CEUR Workshop Proc
 
 In order for this to happen, the following requirements must be satisfied:
 
-- All submissions should be in Adobe Portable Document Format (PDF) and should follow the [CEUR-Template-1col.docx](CEUR-Template-1col.docx) file, single column.
+- All submissions should be in Adobe Portable Document Format (PDF) and should follow the [CEUR-Template-1col-ICBO2026.docx](CEUR-Template-1col-ICBO2026.docx) file, single column.
 - The template in OverLeaf (LaTeX) version is tbd (To be updated soon).
 - Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.
 - Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2026 with the conference name and date. You only need to fill in the EMAIL and ORCID information for each author.
