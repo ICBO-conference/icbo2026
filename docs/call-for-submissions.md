@@ -124,7 +124,7 @@ For each paper accepted, at least one author must register.
 
 Workshop submission — one pager including title, organizers names and contacts, workshop description, duration.
 
-**Send to:** Boonserm (Serm) Kulvatunyou
+**Send to:** Boonserm (Serm) Kulvatunyou — <a href="mailto:boonserm.kulvatunyou@nist.gov">boonserm.kulvatunyou@nist.gov</a>
 
 ---
 
@@ -153,7 +153,7 @@ More information can be found at <https://link.springer.com/collections/gagejcaf
 
 | Track | Submission Deadline | Acceptance Notification |
 |---|---|---|
-| **Workshop & Tutorial Proposals** | March 15, 2026 | March 22, 2026 |
+| **Workshop & Tutorial Proposals** | March 30, 2026 | April 6, 2026 |
 | **Direct-to-Journal Track** | April 15, 2026 | June 1, 2026 |
 | **Main Conference Papers** | May 1, 2026 | June 1, 2026 |
 | **Posters & Software Demos** | June 1, 2026 | June 15, 2026 |
