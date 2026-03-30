@@ -130,6 +130,16 @@ Workshop submission — one pager including title, organizers names and contacts
 
 ---
 
+## Call for Posters & Software Demos
+
+**Submission deadline:** June 1, 2026. **Notification:** June 15, 2026.
+
+Posters and software demos are an opportunity to present emerging tools, software systems, and early-stage research concepts. Submissions should include a brief description of the work, its relevance to the conference themes, and (for software demos) a description of the system to be demonstrated.
+
+**Submission link:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index)
+
+---
+
 ## Call for Direct-to-Journal Track Papers
 
 **Direct-to-journal track submission deadline:** April 15, 2026. **Notification:** June 1, 2026.
