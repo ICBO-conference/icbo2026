@@ -95,6 +95,36 @@ In order for this to happen, the following requirements must be satisfied:
 
 ---
 
+## Call for Workshop & Tutorial Proposals
+
+**Submission deadline:** March 30, 2026. **Notification:** April 6, 2026.
+
+Workshop submission — one pager including title, organizers names and contacts, workshop description, duration.
+
+**Submit via:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index)
+
+**Contact:** Boonserm (Serm) Kulvatunyou — <a href="mailto:boonserm.kulvatunyou@nist.gov">boonserm.kulvatunyou@nist.gov</a>
+
+---
+
+## Call for Direct-to-Journal Track Papers
+
+**Direct-to-journal track submission deadline:** April 15, 2026. **Notification:** June 1, 2026.
+
+In collaboration with the [Journal of Biomedical Semantics (JBMS)](https://link.springer.com/collections/gagejcafef).
+
+Papers submitted to the International Conference on Biological and Biomedical Ontology track at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance.
+
+The new ICBO Thematic Series at the JBMS is soliciting submissions of novel (not previously published nor concurrently submitted) research papers in the areas of ontology design, development, evaluation and use, ontology interoperability, knowledge graphs, ontology-driven intelligent systems, ontologies for explainable AI, and the application of ontologies to biological and biomedical problems, across the full range of life sciences. In addition, we would like to invite contributions showcasing methods for ontology-based research, including statistical methods, tool support for ontologies and semantic technologies including for the annotation of data, visualisation, analysis, and related applications, and contributions addressing the challenges associated with working with multiple ontologies at the same time, including ontology alignment and matching. Submissions are welcome from a broad range of approaches to ontology building and use.
+
+More information can be found at <https://link.springer.com/collections/gagejcafef>.
+
+**Submission:** The submission guidelines will follow the journal's submission requirements — see [Journal of Biomedical Semantics submission guidelines](https://link.springer.com/journal/13326/submission-guidelines).
+
+**Contact:** Sunghwan Kim
+
+---
+
 ## Call for ICBO Conference Papers
 
 **Conference paper submission deadline:** May 1, 2026. **Notification:** June 1, 2026.
@@ -120,14 +150,6 @@ For each paper accepted, at least one author must register.
 
 **Submission link:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index)
 
-### Workshop & Tutorial Proposals
-
-Workshop submission — one pager including title, organizers names and contacts, workshop description, duration.
-
-**Submit via:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index) (same portal as conference papers)
-
-**Contact:** Boonserm (Serm) Kulvatunyou — <a href="mailto:boonserm.kulvatunyou@nist.gov">boonserm.kulvatunyou@nist.gov</a>
-
 ---
 
 ## Call for Posters & Software Demos
@@ -137,24 +159,6 @@ Workshop submission — one pager including title, organizers names and contacts
 Posters and software demos are an opportunity to present emerging tools, software systems, and early-stage research concepts. Submissions should include a brief description of the work, its relevance to the conference themes, and (for software demos) a description of the system to be demonstrated.
 
 **Submission link:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index)
-
----
-
-## Call for Direct-to-Journal Track Papers
-
-**Direct-to-journal track submission deadline:** April 15, 2026. **Notification:** June 1, 2026.
-
-In collaboration with the [Journal of Biomedical Semantics (JBMS)](https://link.springer.com/collections/gagejcafef).
-
-Papers submitted to the International Conference on Biological and Biomedical Ontology track at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance.
-
-The new ICBO Thematic Series at the JBMS is soliciting submissions of novel (not previously published nor concurrently submitted) research papers in the areas of ontology design, development, evaluation and use, ontology interoperability, knowledge graphs, ontology-driven intelligent systems, ontologies for explainable AI, and the application of ontologies to biological and biomedical problems, across the full range of life sciences. In addition, we would like to invite contributions showcasing methods for ontology-based research, including statistical methods, tool support for ontologies and semantic technologies including for the annotation of data, visualisation, analysis, and related applications, and contributions addressing the challenges associated with working with multiple ontologies at the same time, including ontology alignment and matching. Submissions are welcome from a broad range of approaches to ontology building and use.
-
-More information can be found at <https://link.springer.com/collections/gagejcafef>.
-
-**Submission:** The submission guidelines will follow the journal's submission requirements — see [Journal of Biomedical Semantics submission guidelines](https://link.springer.com/journal/13326/submission-guidelines).
-
-**Contact:** Sunghwan Kim
 
 ---
 
