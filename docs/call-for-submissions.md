@@ -89,7 +89,7 @@ In order for this to happen, the following requirements must be satisfied:
 - All papers for ICBO MUST have an accompanying signed Author Agreement to Publish a Contribution as Open-Access on CEUR-WS.org prepared by the corresponding author. Please download one of the ICBO 2026 customized forms below:
     - **[AUTHOR-AGREEMENT (NTP)](https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12):** Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.
     - **[AUTHOR-AGREEMENT (TP)](https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12):** Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!
-- Fill in the fields on the AUTHOR-AGREEMENT form, print it out, sign it in ink (by hand), then scan or photograph the form and both upload it on official administrative website (To be updated soon) and send it to: <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a> with a subject heading that reads "Author Agreement for submission PAPER [PAPER-ID]".
+- Fill in the fields on the AUTHOR-AGREEMENT form, print it out, sign it in ink (by hand), then scan or photograph the form and both upload it on the [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index) and send it to: <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a> with a subject heading that reads "Author Agreement for submission PAPER [PAPER-ID]".
 - Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown [here](http://ceur-ws.org/agreement-paper1.jpg).
 - Update your camera-ready paper on the official administrative website (To be updated soon).
 
@@ -118,13 +118,15 @@ The following paper categories are welcome:
 
 For each paper accepted, at least one author must register.
 
-**Submission link:** Coming soon.
+**Submission link:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index)
 
 ### Workshop & Tutorial Proposals
 
 Workshop submission — one pager including title, organizers names and contacts, workshop description, duration.
 
-**Send to:** Boonserm (Serm) Kulvatunyou — <a href="mailto:boonserm.kulvatunyou@nist.gov">boonserm.kulvatunyou@nist.gov</a>
+**Submit via:** [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index) (same portal as conference papers)
+
+**Contact:** Boonserm (Serm) Kulvatunyou — <a href="mailto:boonserm.kulvatunyou@nist.gov">boonserm.kulvatunyou@nist.gov</a>
 
 ---
 
