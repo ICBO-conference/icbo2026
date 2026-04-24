@@ -17,7 +17,7 @@ disable_toc: true
 <div class="submission-card">
 <h3><i class="fa fa-calendar-o"></i> ICBO Only</h3>
 <p>Attend ICBO 2026 without the full ISMB conference. Registration is through the ISMB 2026 portal.</p>
-<p><strong>Fee: $450</strong></p>
+<p><strong>Fee: up to $450</strong></p>
 <p><a href="https://www.iscb.org/ismb2026/home" target="_blank" class="btn btn-primary" style="margin-top:10px;">Register via ISMB 2026</a></p>
 </div>
 </div>
