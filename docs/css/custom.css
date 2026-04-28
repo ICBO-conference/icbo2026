@@ -182,6 +182,67 @@ table td, table th {
   margin-bottom: 4px;
 }
 
+/* --- Workshop Cards --- */
+.workshop-card {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-left: 4px solid #27ae60;
+  border-radius: 4px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+}
+
+.workshop-header {
+  margin-bottom: 10px;
+}
+
+.workshop-tag {
+  display: inline-block;
+  background-color: #27ae60;
+  color: #ffffff;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-bottom: 6px;
+}
+
+.workshop-card h3 {
+  margin: 4px 0 10px;
+  font-size: 1.15em;
+}
+
+.workshop-card h3 a {
+  color: #2c3e50 !important;
+  text-decoration: none;
+}
+
+.workshop-card h3 a:hover {
+  color: #27ae60 !important;
+  text-decoration: underline;
+}
+
+.workshop-dates {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 12px 0;
+  font-size: 0.88em;
+  color: #555;
+}
+
+.workshop-dates .fa {
+  color: #27ae60;
+  margin-right: 4px;
+}
+
+.btn-sm {
+  padding: 5px 14px;
+  font-size: 0.85em;
+}
+
 /* --- Organizer Cards --- */
 .organizer-grid {
   display: flex;

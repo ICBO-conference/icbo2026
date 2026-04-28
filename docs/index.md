@@ -62,6 +62,36 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ---
 
+## <i class="fa fa-check-circle"></i> Accepted Workshops
+
+<div class="workshop-card">
+<div class="workshop-header">
+<span class="workshop-tag">Half-day Workshop</span>
+<h3><a href="https://vdos-workshop.github.io/vdos2026/" target="_blank">15th Vaccine and Drug Ontology Studies (VDOS) 2026</a></h3>
+</div>
+<p>The VDOS workshop explores innovative solutions and challenges in the ontological representation of drugs and vaccines, covering administration, immune responses, adverse events, and drug interactions. This year's focus extends to how AI and large language models can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation.</p>
+<div class="workshop-dates">
+<span><i class="fa fa-calendar"></i> <strong>Paper Submission:</strong> May 1, 2026</span>
+<span><i class="fa fa-calendar"></i> <strong>Notification:</strong> May 31, 2026</span>
+<span><i class="fa fa-calendar"></i> <strong>Workshop:</strong> July 2026 (co-located with ICBO 2026)</span>
+</div>
+<p><a href="https://vdos-workshop.github.io/vdos2026/" target="_blank" class="btn btn-default btn-sm"><i class="fa fa-external-link"></i> Workshop Homepage</a></p>
+</div>
+
+<div class="workshop-card">
+<div class="workshop-header">
+<span class="workshop-tag">Full-day Workshop</span>
+<h3>Cell Type Knowledge in the Age of Foundation Models and Agentic AI: Bridging ML, Omics, Literature, and Ontologies</h3>
+</div>
+<p>This workshop brings together researchers working at the intersection of single-cell and spatial omics, agentic AI, and biomedical ontologies to explore how foundation models and knowledge graphs can scale cell type curation, improve ML model interpretability, and bridge data-driven cell phenotypes with curated classical knowledge.</p>
+<div class="workshop-dates">
+<span><i class="fa fa-calendar"></i> <strong>Paper Submission:</strong> TBD</span>
+<span><i class="fa fa-calendar"></i> <strong>Workshop:</strong> July 2026 (co-located with ICBO 2026)</span>
+</div>
+</div>
+
+---
+
 ## <i class="fa fa-globe"></i> Domains of Interest
 
 Submissions are encouraged within, but not limited to:
