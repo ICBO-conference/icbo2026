@@ -71,8 +71,9 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 </div>
 <p>The VDOS workshop explores innovative solutions and challenges in the ontological representation of drugs and vaccines, covering administration, immune responses, adverse events, and drug interactions. This year's focus extends to how AI and large language models can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation.</p>
 <div class="workshop-dates">
-<span><i class="fa fa-calendar"></i> <strong>Paper Submission:</strong> May 1, 2026</span>
-<span><i class="fa fa-calendar"></i> <strong>Notification:</strong> May 31, 2026</span>
+<span><i class="fa fa-calendar"></i> <strong>Journal Paper Submission:</strong> May 15, 2026</span>
+<span><i class="fa fa-calendar"></i> <strong>EasyChair Submission:</strong> June 1, 2026</span>
+<span><i class="fa fa-calendar"></i> <strong>Notification:</strong> June 15, 2026</span>
 <span><i class="fa fa-calendar"></i> <strong>Workshop:</strong> July 2026 (co-located with ICBO 2026)</span>
 </div>
 <p><a href="https://vdos-workshop.github.io/vdos2026/" target="_blank" class="btn btn-default btn-sm"><i class="fa fa-external-link"></i> Workshop Homepage</a></p>
