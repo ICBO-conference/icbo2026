@@ -53,23 +53,23 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 <div class="speaker-grid">
 <div class="speaker-card">
-<strong>Richard Scheuermann</strong>
+<strong><a href="https://irp.nih.gov/pi/richard-scheuermann" target="_blank" rel="noopener">Richard Scheuermann</a></strong>
 <span>NIH/NLM</span>
 </div>
 <div class="speaker-card">
-<strong>Reed Shabman</strong>
+<strong><a href="https://www.niaid.nih.gov/research/office-data-science-and-emerging-technologies" target="_blank" rel="noopener">Reed Shabman</a></strong>
 <span>NIAID</span>
 </div>
 <div class="speaker-card">
-<strong>Lynn Schriml</strong>
+<strong><a href="https://www.medschool.umaryland.edu/profiles/schriml-lynn/" target="_blank" rel="noopener">Lynn Schriml</a></strong>
 <span>UMD</span>
 </div>
 <div class="speaker-card">
-<strong>Maria Shatz</strong>
+<strong><a href="https://www.niehs.nih.gov/about/od/osec/osim/staff" target="_blank" rel="noopener">Maria Shatz</a></strong>
 <span>NIH/NIEHS</span>
 </div>
 <div class="speaker-card">
-<strong>Rajkumar Cholan</strong>
+<strong><a href="https://www.nlm.nih.gov/about/NLMorg_chart.html" target="_blank" rel="noopener">Rajkumar Cholan</a></strong>
 <span>NIH/NLM</span>
 </div>
 <div class="speaker-card">
