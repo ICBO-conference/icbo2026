@@ -49,6 +49,37 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ---
 
+## <i class="fa fa-microphone"></i> Keynote Speakers
+
+<div class="speaker-grid">
+<div class="speaker-card">
+<strong>Richard Scheuermann</strong>
+<span>NIH/NLM</span>
+</div>
+<div class="speaker-card">
+<strong>Reed Shabman</strong>
+<span>NIAID</span>
+</div>
+<div class="speaker-card">
+<strong>Lynn Schriml</strong>
+<span>UMD</span>
+</div>
+<div class="speaker-card">
+<strong>Maria Shatz</strong>
+<span>NIH/NIEHS</span>
+</div>
+<div class="speaker-card">
+<strong>Rajkumar Cholan</strong>
+<span>NIH/NLM</span>
+</div>
+<div class="speaker-card">
+<strong>Birgit Medal</strong>
+<span>Pfizer</span>
+</div>
+</div>
+
+---
+
 ## <i class="fa fa-list"></i> Topics of Interest
 
 <div class="topic-grid">
