@@ -159,6 +159,34 @@ table td, table th {
   margin-right: 4px;
 }
 
+/* --- Keynote Speaker Cards --- */
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+  margin: 18px 0 10px;
+}
+
+.speaker-card {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-left: 4px solid #8e44ad;
+  border-radius: 4px;
+  padding: 14px 16px;
+}
+
+.speaker-card strong {
+  display: block;
+  color: #2c3e50;
+  font-size: 1.02em;
+  margin-bottom: 4px;
+}
+
+.speaker-card span {
+  color: #555;
+  font-size: 0.92em;
+}
+
 /* --- Topic Cards (call for submissions expanded) --- */
 .topic-card-full {
   background-color: #f8f9fa;
