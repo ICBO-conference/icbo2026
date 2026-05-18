@@ -177,9 +177,18 @@ table td, table th {
 
 .speaker-card strong {
   display: block;
-  color: #2c3e50;
   font-size: 1.02em;
   margin-bottom: 4px;
+}
+
+.speaker-card strong a {
+  color: #2c3e50 !important;
+  text-decoration: none;
+}
+
+.speaker-card strong a:hover {
+  color: #8e44ad !important;
+  text-decoration: underline;
 }
 
 .speaker-card span {
