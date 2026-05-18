@@ -73,7 +73,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 <span>NIH/NLM</span>
 </div>
 <div class="speaker-card">
-<strong>Birgit Medal</strong>
+<strong>Birgit Meldal</strong>
 <span>Pfizer</span>
 </div>
 </div>
