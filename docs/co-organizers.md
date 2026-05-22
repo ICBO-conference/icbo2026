@@ -61,6 +61,7 @@ disable_toc: true
 <div class="organizer-card">
 <div class="organizer-name">Muhammad “Tuan” Amith</div>
 <div class="organizer-affil">School of Health Information Sciences, University of Victoria<br>British Columbia, Canada</div>
+</div>
 
 </div>
 
