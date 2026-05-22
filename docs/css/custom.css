@@ -289,7 +289,7 @@ table td, table th {
 }
 
 .organizer-card {
-  flex: 1 1 calc(50% - 16px);
+  flex: 0 1 calc(50% - 8px);
   min-width: 260px;
   background-color: #ffffff;
   border: 1px solid #dee2e6;
