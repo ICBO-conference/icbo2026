@@ -6,6 +6,9 @@ disable_toc: true
 
 # Registration
 
+!!! success "Early Bird Registration Extended"
+    **Early bird registration has been extended through June 5, 2026 at 11:59 PM anywhere on earth (AoE).**
+
 ## Registration Options
 
 <div class="submission-grid">

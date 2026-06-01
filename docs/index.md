@@ -37,6 +37,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 | Milestone | Deadline |
 |---|---|
+| **Early Bird Registration** | ~~May 30, 2026~~ **June 5, 2026 (Extended!)** |
 | **Workshop & Tutorial Proposals** | March 30, 2026 |
 | **Direct-to-Journal Track** | April 15, 2026 |
 | **Main Conference Papers** | May 1, 2026 |
