@@ -154,7 +154,7 @@ For each paper accepted, at least one author must register.
 
 ## Call for Posters & Software Demos
 
-**Submission deadline:** June 1, 2026. **Notification:** June 15, 2026.
+**Submission deadline:** ~~June 1, 2026~~ **June 12, 2026 (Extended!)**. **Notification:** June 15, 2026.
 
 Posters and software demos are an opportunity to present emerging tools, software systems, and early-stage research concepts. Submissions should include a brief description of the work, its relevance to the conference themes, and (for software demos) a description of the system to be demonstrated.
 
@@ -172,7 +172,7 @@ Posters and software demos are an opportunity to present emerging tools, softwar
 | **Workshop & Tutorial Proposals** | March 30, 2026 | April 6, 2026 |
 | **Direct-to-Journal Track** | April 15, 2026 | June 1, 2026 |
 | **Main Conference Papers** | May 1, 2026 | June 1, 2026 |
-| **Posters & Software Demos** | June 1, 2026 | June 15, 2026 |
+| **Posters & Software Demos** | ~~June 1, 2026~~ **June 12, 2026 (Extended!)** | June 15, 2026 |
 
 ---
 
