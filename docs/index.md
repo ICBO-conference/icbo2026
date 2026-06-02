@@ -41,7 +41,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 | **Workshop & Tutorial Proposals** | March 30, 2026 |
 | **Direct-to-Journal Track** | April 15, 2026 |
 | **Main Conference Papers** | May 1, 2026 |
-| **Posters & Software Demos** | June 1, 2026 |
+| **Posters & Software Demos** | ~~June 1, 2026~~ **June 12, 2026 (Extended!)** |
 | **Conference** | **July 15–17, 2026** |
 
 <p style="text-align: center;">
