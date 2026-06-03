@@ -125,7 +125,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ---
 
-## <i class="fa fa-file-text"></i> Accepted Proceedings
+## <i class="fa fa-file-text"></i> Accepted Talks
 
 | # | Title | Primary Author |
 |---|-------|----------------|
