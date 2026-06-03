@@ -56,8 +56,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 <div class="speaker-grid">
 <div class="speaker-card">
-<strong><a href="https://irp.nih.gov/pi/richard-scheuermann" target="_blank" rel="noopener">Richard Scheuermann</a></strong>
-<span>NIH/NLM</span>
+<strong><a href="https://irp.nih.gov/pi/richard-scheuermann" target="_blank" rel="noopener">Richard Scheuermann</a>, NIH/NLM</strong>
 <em>Toward a complete lexicon of cell types in the biomedical literature</em>
 </div>
 </div>
