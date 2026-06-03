@@ -50,13 +50,21 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ---
 
-## <i class="fa fa-microphone"></i> Keynote Speakers
+## <i class="fa fa-microphone"></i> Keynote & Invited Speakers
+
+### Keynote Speaker
 
 <div class="speaker-grid">
 <div class="speaker-card">
 <strong><a href="https://irp.nih.gov/pi/richard-scheuermann" target="_blank" rel="noopener">Richard Scheuermann</a></strong>
 <span>NIH/NLM</span>
+<em>Toward a complete lexicon of cell types in the biomedical literature</em>
 </div>
+</div>
+
+### Invited Speakers
+
+<div class="speaker-grid">
 <div class="speaker-card">
 <strong><a href="https://www.niaid.nih.gov/research/office-data-science-and-emerging-technologies" target="_blank" rel="noopener">Reed Shabman</a></strong>
 <span>NIAID</span>
@@ -127,7 +135,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ## <i class="fa fa-file-text"></i> Accepted Talks
 
-| # | Title | Primary Author |
+| # | Title | Primary Author/Speaker |
 |---|-------|----------------|
 | 1 | Investigating the use of an ontology for grounding LLMs: Using GraphRAG with the Foundational Model of Anatomy | Melissa Clarkson |
 | 2 | The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query | Karamarie Fecho |
