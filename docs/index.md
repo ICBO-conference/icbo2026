@@ -134,6 +134,8 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 | 3 | Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes | James Balhoff |
 | 4 | Consistent but Incorrect: Detecting Discrepancies in Ontologies | Christian Kindermann |
 | 5 | Evidencell - an agentic research assistant for the Cell Ontology | David Osumi-Sutherland |
+| 6 | ACCELERATE-BASSO: Advancing Behavioral and Social Science Research through Ontology Best Practices | Cui Tao |
+| 7 | OnTEPT: A multimodal OWL ontology for post-traumatic stress disorder | Diego M. López |
 
 ---
 
