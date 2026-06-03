@@ -125,6 +125,18 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 
 ---
 
+## <i class="fa fa-file-text"></i> Accepted Proceedings
+
+| # | Title | Primary Author |
+|---|-------|----------------|
+| 1 | Investigating the use of an ontology for grounding LLMs: Using GraphRAG with the Foundational Model of Anatomy | Melissa Clarkson |
+| 2 | The ROBOKOP Biomedical Knowledge Graph System: Leveraging Ontologies for Data Normalization, Integration, and Query | Karamarie Fecho |
+| 3 | Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes | James Balhoff |
+| 4 | Consistent but Incorrect: Detecting Discrepancies in Ontologies | Christian Kindermann |
+| 5 | Evidencell - an agentic research assistant for the Cell Ontology | David Osumi-Sutherland |
+
+---
+
 ## <i class="fa fa-globe"></i> Domains of Interest
 
 Submissions are encouraged within, but not limited to:
