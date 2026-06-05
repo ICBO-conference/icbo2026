@@ -170,6 +170,16 @@ Submissions are encouraged within, but not limited to:
 
 ---
 
+## <i class="fa fa-star"></i> Sponsors
+
+<div class="sponsor-grid">
+<a href="https://www.ohdsi.org" target="_blank" rel="noopener" class="sponsor-card">
+<img src="images/ohdsi-logo-horizontal.png" alt="OHDSI – Observational Health Data Sciences and Informatics" class="sponsor-logo">
+</a>
+</div>
+
+---
+
 ## <i class="fa fa-envelope"></i> Contact Information
 
 Please direct all questions to Asiyah Yu Lin — <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a>
