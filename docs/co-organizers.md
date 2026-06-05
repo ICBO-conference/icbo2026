@@ -96,11 +96,11 @@ disable_toc: true
 
 ---
 
-## Website Contributors
+## Organizing Committee Volunteer
 
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| Alexander D. Diehl | University at Buffalo | Volunteer support for website setup |
+| Name | Affiliation |
+|------|-------------|
+| Alexander D. Diehl | University at Buffalo |
 
 ---
 
