@@ -96,6 +96,14 @@ disable_toc: true
 
 ---
 
+## Website Contributors
+
+| Name | Affiliation | Contribution |
+|------|-------------|--------------|
+| Alexander D. Diehl | University at Buffalo | Volunteer support for website setup |
+
+---
+
 ## <i class="fa fa-envelope"></i> Contact Information
 
 Please direct all questions to Asiyah Yu Lin — <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a>
