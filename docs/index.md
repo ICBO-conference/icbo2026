@@ -71,6 +71,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 <div class="speaker-card">
 <strong><a href="https://www.medschool.umaryland.edu/profiles/schriml-lynn/" target="_blank" rel="noopener">Lynn Schriml</a></strong>
 <span>UMD</span>
+<em>Disease data standardization landscape: role of ontologies, NER and AI in biocuration</em>
 </div>
 <div class="speaker-card">
 <strong><a href="https://www.niehs.nih.gov/about/od/osec/osim/staff" target="_blank" rel="noopener">Maria Shatz</a></strong>
