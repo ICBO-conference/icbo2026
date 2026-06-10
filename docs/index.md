@@ -76,6 +76,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 <div class="speaker-card">
 <strong><a href="https://www.niehs.nih.gov/about/od/osec/osim/staff" target="_blank" rel="noopener">Maria Shatz</a></strong>
 <span>NIH/NIEHS</span>
+<em>Environmental Health Language Collaborative: Data standards and ontologies for Exposomics</em>
 </div>
 <div class="speaker-card">
 <strong><a href="https://www.nlm.nih.gov/about/NLMorg_chart.html" target="_blank" rel="noopener">Rajkumar Cholan</a></strong>
