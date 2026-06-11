@@ -67,6 +67,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 <div class="speaker-card">
 <strong><a href="https://www.niaid.nih.gov/research/office-data-science-and-emerging-technologies" target="_blank" rel="noopener">Reed Shabman</a></strong>
 <span>NIAID</span>
+<em>Towards an AI-Ready Data Ecosystem: How Ontologies Support Metadata Findability and Interoperability in the NIAID Data Ecosystem Discovery Portal</em>
 </div>
 <div class="speaker-card">
 <strong><a href="https://www.medschool.umaryland.edu/profiles/schriml-lynn/" target="_blank" rel="noopener">Lynn Schriml</a></strong>
