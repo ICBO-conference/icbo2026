@@ -82,6 +82,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 <div class="speaker-card">
 <strong><a href="https://www.nlm.nih.gov/about/NLMorg_chart.html" target="_blank" rel="noopener">Rajkumar Cholan</a></strong>
 <span>NIH/NLM</span>
+<em>The Evolution of Health Data Standards and Terminologies at the National Library of Medicine and Potential Implications for the AI Era</em>
 </div>
 <div class="speaker-card">
 <strong>Birgit Meldal</strong>
