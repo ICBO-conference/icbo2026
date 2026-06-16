@@ -87,6 +87,7 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 <div class="speaker-card">
 <strong>Birgit Meldal</strong>
 <span>Pfizer</span>
+<em>Curation of early research data: when humans and machines partner we create value and retain trust</em>
 </div>
 </div>
 
