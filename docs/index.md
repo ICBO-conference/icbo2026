@@ -181,6 +181,10 @@ Submissions are encouraged within, but not limited to:
 <a href="https://www.ohdsi.org" target="_blank" rel="noopener" class="sponsor-card">
 <img src="images/ohdsi-logo-horizontal.png" alt="OHDSI – Observational Health Data Sciences and Informatics" class="sponsor-logo">
 </a>
+<a href="https://autopoiesis.science/" target="_blank" rel="noopener" class="sponsor-card sponsor-card--autopoiesis">
+<img src="images/autopoiesis-logo-black.png" alt="Autopoiesis" class="sponsor-logo sponsor-logo--light">
+<img src="images/autopoiesis-logo-white.png" alt="Autopoiesis" class="sponsor-logo sponsor-logo--dark">
+</a>
 </div>
 
 ---

@@ -537,3 +537,20 @@ h2 .fa {
   width: auto;
   display: block;
 }
+
+.sponsor-logo--dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sponsor-card--autopoiesis {
+    background: #1a1a1a;
+    border-color: #333;
+  }
+  .sponsor-logo--light {
+    display: none;
+  }
+  .sponsor-logo--dark {
+    display: block;
+  }
+}
