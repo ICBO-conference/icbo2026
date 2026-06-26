@@ -78,20 +78,21 @@ Practical implementations across core domains:
 
 ## ICBO Conference Proceeding Publication Requirements
 
-All conference submissions accepted will be published in the [CEUR Workshop Proceedings](http://ceur-ws.org/) as part of the new [IAOA series](http://ceur-ws.org/iaoa.html). An example from a past conference can be seen [here](https://ceur-ws.org/Vol-3603/).
+All conference submissions (excluding posters and software demo submissions) accepted will be published in the [CEUR Workshop Proceedings](http://ceur-ws.org/) as part of the new [IAOA series](http://ceur-ws.org/iaoa.html). An example from a past conference can be seen [here](https://ceur-ws.org/Vol-3603/).
 
 In order for this to happen, the following requirements must be satisfied:
 
-- All submissions should be in Adobe Portable Document Format (PDF) and should follow the [CEUR-Template-1col-ICBO2026.docx](CEUR-Template-1col-ICBO2026.docx) file, single column.
-- The template in OverLeaf (LaTeX) version is tbd (To be updated soon).
+- All submissions should be in Adobe Portable Document Format (PDF) and should follow the [CEUR-Template-1col-ICBO2026.odt](CEUR-Template-1col-ICBO2026.odt) file, single column.
+- The template in OverLeaf (LaTeX) version is available [here](https://www.overleaf.com/project/6a35aa1f04fb818b108393cd).
 - Ensure that the conference name, date, and place, and email addresses and ORCIDs of all authors are added to the footnote on the lower left of the first page.
-- Note that the template (.docx version) provided in the link above already includes the standardized copyright footer for ICBO 2026 with the conference name and date. You only need to fill in the EMAIL and ORCID information for each author.
+- Note that the template (.odt version) provided in the link above already includes the standardized copyright footer for ICBO 2026 with the conference name and date. You only need to fill in the EMAIL and ORCID information for each author.
 - All papers for ICBO MUST have an accompanying signed Author Agreement to Publish a Contribution as Open-Access on CEUR-WS.org prepared by the corresponding author. Please download one of the ICBO 2026 customized forms below:
     - **[AUTHOR-AGREEMENT (NTP)](https://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12):** Authors shall use this form if they included no copyrighted third party material in their paper text (or accompanying sources, datasets). This is the right variant in most cases.
     - **[AUTHOR-AGREEMENT (TP)](https://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12):** Authors shall use this form if they did include copyrighted third party material in their paper or accompanying material. They must then also attach a copy of the permission by the third party to use this material in the signed author agreement!
+- The CEURART template contains specific instructions on certain mandatory elements such as the Declaration on Generative AI. Make sure that all paper PDFs follow the template's instructions.
 - Fill in the fields on the AUTHOR-AGREEMENT form, print it out, sign it in ink (by hand), then scan or photograph the form and both upload it on the [ICBO 2026 Submission Portal](https://cmt3.research.microsoft.com/ICBBO2026/Submission/index) and send it to: <a href="mailto:ontology.world@gmail.com">ontology.world@gmail.com</a> with a subject heading that reads "Author Agreement for submission PAPER [PAPER-ID]".
-- Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown [here](http://ceur-ws.org/agreement-paper1.jpg).
-- Update your camera-ready paper on the official administrative website (To be updated soon).
+- Please note that CEUR strictly requires a hand-written wet-ink signature on a printed version of the agreement by the corresponding author (acting on behalf of all co-authors). Do NOT digitally sign the pdf, as CEUR-WS.org will not accept it. CEUR-WS.org allows an alternative method to provide a signature if you are unable to print the form, as shown [here](http://ceur-ws.org/agreement-paper1.jpg).
+- Update your camera-ready paper on the official submission portal.
 
 ---
 
