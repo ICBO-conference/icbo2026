@@ -15,6 +15,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Agenda: agenda.md
   - Call for Submissions: call-for-submissions.md
   - Registration: registration.md
   - Organizers: co-organizers.md
