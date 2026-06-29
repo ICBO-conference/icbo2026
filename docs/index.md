@@ -45,6 +45,8 @@ While GenAI offers powerful capabilities for data processing and synthesis, it s
 | **Conference** | **July 15–17, 2026** |
 
 <p style="text-align: center;">
+<a href="agenda/" class="btn btn-primary"><i class="fa fa-calendar"></i> View Conference Agenda</a>
+&nbsp;
 <a href="call-for-submissions/" class="btn btn-primary"><i class="fa fa-file-text-o"></i> Call for Submissions & All Deadlines</a>
 </p>
 
