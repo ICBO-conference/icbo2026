@@ -72,6 +72,34 @@ disable_toc: true
 
 ---
 
+## Journal Tracking Proceeding Editors
+
+<div class="organizer-grid">
+
+<div class="organizer-card">
+<div class="organizer-name">Anuwat Pengput</div>
+<div class="organizer-affil">Sirindhorn College of Public Health Khon Kaen<br>Thailand</div>
+</div>
+
+<div class="organizer-card">
+<div class="organizer-name">Muhammad "Tuan" Amith</div>
+<div class="organizer-affil">School of Health Information Sciences, University of Victoria<br>British Columbia, Canada</div>
+</div>
+
+<div class="organizer-card">
+<div class="organizer-name">Andrey Ibrahim Seleznev</div>
+<div class="organizer-affil">University of Pittsburgh<br>Pennsylvania, USA</div>
+</div>
+
+<div class="organizer-card">
+<div class="organizer-name">Asiyah Yu Lin</div>
+<div class="organizer-affil">OntoData Research and Solutions, LLC<br>Maryland, USA</div>
+</div>
+
+</div>
+
+---
+
 ## Program Committee
 
 | Name | Affiliation |
