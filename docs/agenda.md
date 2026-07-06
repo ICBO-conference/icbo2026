@@ -54,7 +54,7 @@ disable_toc: true
 
 | Time | Event |
 |------|-------|
-| 9:00 AM – 5:00 PM | Cell Workshop |
+| 9:00 AM – 5:00 PM | [Cell Workshop](https://cellular-semantics.github.io/ICBO_2026_workshop/) |
 | 6:00 – 8:00 PM | Organizer's Event |
 
 </div>
