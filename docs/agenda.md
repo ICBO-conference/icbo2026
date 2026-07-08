@@ -49,7 +49,7 @@ disable_toc: true
 | 12:00 – 12:45 PM | Monroe | ICBO Special Event: Community Engagement | Asiyah Yu Lin / Anna Maria | Future direction of biomedical ontology development in the AI era |
 | 12:45 – 1:00 PM | Monroe | Concluding Remarks / Feedback Session | Anna Maria Masci | |
 | 1:00 – 2:20 PM | On Own | **Lunch Break** | | |
-| 2:20 – 6:00 PM | Lincoln West | **VDOS Workshop** | | |
+| 2:20 – 6:00 PM | Lincoln West | **[VDOS Workshop](https://vdos-workshop.github.io/vdos2026/)** | | |
 | 7:00 – 9:00 PM | | Organizer's Event | | |
 
 ---
