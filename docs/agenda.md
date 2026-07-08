@@ -18,7 +18,7 @@ disable_toc: true
 |------|----------|-------|---------|--------------|
 | 8:30 – 8:45 AM | Monroe | Opening Remarks | Asiyah Lin | |
 | 8:45 – 9:30 AM | Monroe | Invited Talk | Birgit Medal *(Virtual)* | Curation of early research data: when humans and machines partner we create value and retain trust |
-| 9:30 – 10:00 AM | Monroe | Journal Track | Diego López *(Virtual)* | OnTEPT: A multimodal OWL ontology for post-traumatic stress disorder |
+| 9:30 – 10:00 AM | Monroe | Journal Track | Jose Alejandro Salazar Castro *(Virtual)* | OnTEPT: A multimodal OWL ontology for post-traumatic stress disorder |
 | 10:00 – 11:00 AM | Columbia Ballroom | **First Recess** | | Posters and Demos |
 | 11:00 AM – 12:00 PM | Monroe | Keynote Speaker | Richard Scheuermann | Toward a complete lexicon of cell types in the biomedical literature |
 | 12:00 – 12:20 PM | Monroe | Conference Paper | Landon Todd Detwiler | Investigating the use of an ontology for grounding LLMs: Using GraphRAG with the Foundational Model of Anatomy |
