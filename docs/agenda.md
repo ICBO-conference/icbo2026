@@ -4,7 +4,7 @@ disable_toc: true
 
 <div style="max-width: 1000px; margin: 0 auto;" markdown>
 
-# Conference Agenda (Draft)
+# Conference Agenda
 
 **<i class="fa fa-calendar"></i> July 15–17, 2026 &nbsp;|&nbsp; <i class="fa fa-map-marker"></i> Washington Hilton, Washington D.C.**
 
