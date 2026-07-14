@@ -45,8 +45,9 @@ disable_toc: true
 | 8:30 – 9:15 AM | Monroe | Invited Talk | Lynn Schriml | Disease data standardization landscape: role of ontologies, NER and AI in biocuration |
 | 9:15 – 10:00 AM | Monroe | Invited Talk | Reed Shabman | Towards an AI-Ready Data Ecosystem: How Ontologies Support Metadata Findability and Interoperability in the NIAID Data Ecosystem Discovery Portal |
 | 10:00 – 11:00 AM | Columbia Ballroom | **First Recess** | | Posters and Demos |
-| 11:00 AM – 12:00 PM | Monroe | ICBO Special Event: Panel Discussion | Michel Dumontier | TBD (NeuroSymbolic and Ontology) |
-| 12:00 – 12:45 PM | Monroe | ICBO Special Event: Community Engagement | Asiyah Yu Lin / Anna Maria | Future direction of biomedical ontology development in the AI era |
+| 11:00 AM – 12:00 PM | Monroe | ICBO Special Event: Panel Discussion | Panelist: Michel Dumontier, Robert Hoehndorf, James Ballhoff | The Future of Bioontology: Challenges, Agentic AI, and Next-Generation Training |
+| 12:00 – 12:15 PM | Monroe | ICBO Special invited guest talk | Samir Lababidi | Precision FDA and AI |
+| 12:15 – 12:45 PM | Monroe | ICBO Special Event: Community Engagement | Anna Maria Masci/Asiyah Yu Lin | The Future of Our Community |
 | 12:45 – 1:00 PM | Monroe | Concluding Remarks / Feedback Session | Anna Maria Masci | |
 | 1:00 – 2:20 PM | On Own | **Lunch Break** | | |
 | 2:20 – 6:00 PM | Lincoln West | [VDOS Workshop](https://vdos-workshop.github.io/vdos2026/) | | |
