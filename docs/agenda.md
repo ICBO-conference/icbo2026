@@ -8,8 +8,6 @@ disable_toc: true
 
 **<i class="fa fa-calendar"></i> July 15–17, 2026 &nbsp;|&nbsp; <i class="fa fa-map-marker"></i> Washington Hilton, Washington D.C.**
 
-*This agenda is a draft and subject to change.*
-
 ---
 
 ## Day 1 — Wednesday, July 15th
