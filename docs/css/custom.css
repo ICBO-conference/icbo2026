@@ -554,3 +554,62 @@ h2 .fa {
     display: block;
   }
 }
+
+/* --- Poster & Software Demo Abstract Cards --- */
+.poster-card {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-left: 4px solid #8e44ad;
+  border-radius: 4px;
+  padding: 20px 24px;
+  margin-bottom: 18px;
+}
+
+.poster-tag {
+  display: inline-block;
+  background-color: #8e44ad;
+  color: #ffffff;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-bottom: 6px;
+}
+
+/* the tag renders inside its own paragraph; keep it tight to the title */
+.poster-card > p:first-child {
+  margin-bottom: 0;
+}
+
+.poster-card h3 {
+  color: #2c3e50;
+  margin: 6px 0 10px;
+  font-size: 1.15em;
+  line-height: 1.35;
+}
+
+.poster-card p {
+  margin-bottom: 10px;
+}
+
+.poster-affil {
+  display: block;
+  color: #555;
+  font-size: 0.88em;
+  margin-top: 4px;
+}
+
+.poster-card em {
+  color: #555;
+  font-size: 0.9em;
+}
+
+.poster-card .btn-sm {
+  margin: 4px 6px 0 0;
+}
+
+.poster-card .btn-sm .fa {
+  margin-right: 4px;
+}
