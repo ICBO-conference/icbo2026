@@ -72,7 +72,7 @@ disable_toc: true
 
 ---
 
-## Journal Tracking Proceeding Editors
+## Conference Proceeding Editors
 
 <div class="organizer-grid">
 
